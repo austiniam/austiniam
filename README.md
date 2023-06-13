@@ -9,7 +9,7 @@
   - [Linux File Systems](https://github.com/austiniam/Linux-File-Permissions/blob/main/README.md)
 
 - <b>SQL Projects</b>
-  - [SQL Queries- Applying Filters](https://github.com/austiniam/SQL-Queries--Filters)
+  - [SQL Queries - Applying Filters](https://github.com/austiniam/SQL-Queries--Filters)
 
 <h2> 🤳 Connect with me:</h2>
 
